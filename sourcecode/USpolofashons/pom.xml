@@ -48,7 +48,7 @@
     </repositories>
 
     <build>
-       <finalName>USpolofashons</finalName>
+       <finalName>USpolofashons.war</finalName>
     </build>
 
 </project>
