@@ -46,11 +46,9 @@
 		    <url>http://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
 	    </repository>
     </repositories>
-      <developers>
-              <developers>
-                    <name>Nareshroyal</name>
-                    <id>1235</id>
-                    <email>pulanareshroyal@gmail.com</email>
-              </developers>
-       </developers>
+
+    <build>
+       <finalName>USpolofashons</finalName>
+    </build>
+
 </project>
